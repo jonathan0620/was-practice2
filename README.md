@@ -30,3 +30,6 @@
 이러한 이유 때문에 thread Pool을 적용해 안정적인 서비스가 가능하도록 구현.
 
 [Step3] - Thread Pool을 적용해 안정적인 서비스가 가능하도록 한다
+
+![image](https://github.com/jonathan0620/was-practice2/assets/145638699/d6cef12a-119f-4684-b50c-8c36f316be29)
+--> poo1 thread1 (poo1에서 꺼낸 thread임을 확인 가능)
